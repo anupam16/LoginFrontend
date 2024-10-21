@@ -1,0 +1,7 @@
+{
+  "login":"http://10.10.6.133:3008/auth/login",
+  "registration": "http://10.10.6.133:3008/auth/register",
+  "forgot":"http://10.10.6.133:8080/forgot",
+  "verify":"http://10.10.6.133:8080/verify",
+  "logout":"http://10.10.6.133:3008/auth/logout"
+}
